@@ -24,4 +24,4 @@ Pocket Change Manager is a simple Java console application for managing income a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AnnieWang/PocketChangeManager.git
+   git clone  https://github.com/Antalyayuan/-PocketChangeManager-02.git
